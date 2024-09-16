@@ -1,1 +1,1 @@
-Top1lode:0.tcp.ap.ngrok.io:18603:0:0;Bokken:112.213.84.18:14444:0:0
+Top1lode:0.tcp.ap.ngrok.io:18603:0:0
